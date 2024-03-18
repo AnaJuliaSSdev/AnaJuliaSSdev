@@ -12,7 +12,7 @@
 <br>
 
 <div style="display:inline_block;">
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=AnaJuliaSSdev&theme=dark" height = 220 align="left">
+<img src = "https://github-readme-stats.vercel.app/api?username=AnaJuliaSSdev&theme=dark" height = 220 align="left">
 <img src= "https://cdn.discordapp.com/attachments/789899302834274315/1141722921132363856/Design_sem_nome.gif" align="right" height = 220 width = 220 >
 </div>
 
