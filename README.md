@@ -1,4 +1,3 @@
-
 <div style="background-color: #f0f0f0; padding: 20 px;">
 <div align="center">
 <br>
@@ -13,7 +12,7 @@
 
 <div style="display:inline_block;">
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=AnaJuliaSSdev&theme=dark" height = 220 align="left">
-<img src= "https://media.discordapp.net/attachments/1081747751085293649/1141721391293530173/Design_sem_nome.gif?ex=660ea767&is=65fc3267&hm=6f597042e2909c07afd2d1fff7f78e3056f54e721f5e3d7502cdb3ed4fe8c9c0&=&width=670&height=670" align="right" height = 220 width = 220 >
+<img src= "https://cdn.discordapp.com/attachments/1081747751085293649/1230240244734099565/aninha.gif?ex=66329983&is=66202483&hm=98418e09c80aeb682f2e4b80432b6dbee97b1f1765c3060ed5866f1274356492&" align="right" height = 220 width = 220 >
 </div>
 
 <br> 
@@ -27,7 +26,4 @@
 <img  align ="left" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 <br><br>
 <img align ="left" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"> 
-
-
-
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
