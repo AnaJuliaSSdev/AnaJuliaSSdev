@@ -12,7 +12,7 @@
 
 <div style="display:inline_block;">
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=AnaJuliaSSdev&theme=dark" height = 220 align="left">
-<img src= "https://cdn.discordapp.com/attachments/1081747751085293649/1230240244734099565/aninha.gif?ex=66329983&is=66202483&hm=98418e09c80aeb682f2e4b80432b6dbee97b1f1765c3060ed5866f1274356492&" align="right" height = 220 width = 220 >
+<img src= "https://github.com/AnaJuliadSS/ImagemReadMe/blob/main/aninha.gif?raw=true" align="right" height = 220 width = 220 >
 </div>
 
 <br> 
